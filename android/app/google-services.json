@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "36971200205",
+    "firebase_url": "https://drinksmaker-45cae.firebaseio.com",
+    "project_id": "drinksmaker-45cae",
+    "storage_bucket": "drinksmaker-45cae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36971200205:android:e9b8cab6b3845b4cf83384",
+        "android_client_info": {
+          "package_name": "com.drinksmakerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36971200205-1kss10v4fv2afjut94qbp07pnrvbbe07.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm-d-acmGJREwVntE2d25jAX4Yve-XTkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36971200205-1kss10v4fv2afjut94qbp07pnrvbbe07.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
